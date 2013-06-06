@@ -7,8 +7,7 @@ public class Customer {
 	private Address address;
 	private Date lastVisit;
 	private Date birthday;
-	private nombre string;
-	
+	private String colorPelo;
 	
 	private static long lastId = 0;
 	
